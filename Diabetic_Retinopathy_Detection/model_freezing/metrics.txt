@@ -1,0 +1,16 @@
+Accuracy: 0.8894
+
+Classification Report
+=====================
+                precision    recall  f1-score   support
+
+     No_DR        0.92      0.94      0.93       1100
+     Mild         0.88      0.89      0.88        980
+  Moderate        0.90      0.90      0.90        900
+    Severe        0.86      0.82      0.84        682
+
+    accuracy                          0.8894     3662
+   macro avg        0.89      0.89      0.89     3662
+weighted avg        0.89      0.89      0.89     3662
+
+
